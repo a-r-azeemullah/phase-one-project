@@ -6,7 +6,7 @@ import SouthIndia from './pages/SouthIndia';
 import Domestic from './pages/Domestic';
 import International from './pages/International';
 import Standard from './pages/Standard';
-import Premium from './pages/premium';
+import Premium from './pages/Premium';
 import { ThemeProvider } from './components/theme-provider';
 import ProtectedRoute from './components/protected_route';
 
